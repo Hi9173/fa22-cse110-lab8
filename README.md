@@ -10,6 +10,6 @@ No, we should not use Unit Test to test the "message" feature. This is because t
 Question 4:
 Yes, Unit Test will be appropriate for testing the "max length message" feature. This is because all we are doing in this feature is limiting the max length, which can be easily done by returning True/False in a Unit Test function.
 
-![image Info](file://../screenshots/la8.test.png "Screenshot of lab8 test")
-![image Info](file://../screenshots/sum.test.png "Screenshot of sum test")
-![image Info](file://../screenshots/la8.unit.png "Screenshot of unit test")
+![image Info](screenshots/la8.test.png "Screenshot of lab8 test")
+![image Info](screenshots/sum.test.png "Screenshot of sum test")
+![image Info](screenshots/la8.unit.png "Screenshot of unit test")
